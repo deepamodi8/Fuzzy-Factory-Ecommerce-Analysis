@@ -86,3 +86,13 @@ The complete `.pbix` file is available in the project release:
 This project demonstrates an end-to-end analytics workflow:
 
 **Raw E-commerce Data → SQL Analysis → Data Modelling → DAX Measures → Power BI Dashboard → Business Insights**
+
+## Data Source
+
+**Source:** Maven Analytics — Toy Store E-Commerce Database
+
+The dataset is based on Maven Fuzzy Factory, an e-commerce business selling teddy bears. It contains data on website sessions, marketing channels, orders, products, and returns/refunds.
+
+**License:** Public Domain
+
+[View Dataset on Maven Analytics](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database)
